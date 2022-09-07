@@ -2,7 +2,7 @@
 - 👀 I’m interested in mountain bikes and cycling in general. 🚵🚵
 - 🌱 I’m currently learning computer science and coding. 💻🕹️
 - 💞️ I’m looking to collaborate on 🤷
-- 📫 How to reach me 🤫
+- 📫 Reach me at CGBridgewater@outlook.com
 
 <!---
 cgbridgewater/cgbridgewater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
