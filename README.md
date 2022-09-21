@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cgbridgewater
-- 👀 I’m interested in mountain bikes and cycling in general. 🚵🚵
-- 🌱 I’m currently learning ccoding through the Coding Dojo 💻🕹️
-- 💞️ I’m looking to collaborate on 🤷
+- 👀 I’m interested in mountain bikes, cycling in general and golf. 🚵🚵🏌️⛳
+- 🌱 I’m currently learning coding through the Coding Dojo 💻🕹️
+- 💞️ I’m looking to collaborate on class projects and future endeavors
 - 📫 Reach me at CGBridgewater@outlook.com
 
 <!---
