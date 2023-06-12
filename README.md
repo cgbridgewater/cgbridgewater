@@ -2,7 +2,7 @@
 
 - 💞️ I’m interested in mountain bikes, cycling in general and golf. 🚵🚵🏌️⛳
 - 👨🏻‍💻 I recently graduated from Coding Dojo🥷 
-- 👀 I’m looking to collaborate on class projects and future endeavors
+- 👀 I’m looking to collaborate on projects and future endeavors
 - 🔎 Find me on LinkedIn at <a href="https://www.linkedin.com/in/chris-bridgewater/">Chris Bridgewater</a>
 - 📫 Reach me at CGBridgewater@outlook.com
 
