@@ -1,10 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">Hi, I’m Chris Bridgewater
 
-- 💞️ I’m interested in mountain bikes, cycling in general and golf. 🚵🚵🏌️⛳
-- 👨🏻‍💻 I recently graduated from Coding Dojo🥷 
+- 👨🏻‍💻 I recently graduated from Coding Dojo🥷with proficiency in Python, MERN and Java 
 - 👀 I’m looking to collaborate on projects and future endeavors
 - 🔎 Find me on LinkedIn at <a href="https://www.linkedin.com/in/chris-bridgewater/">Chris Bridgewater</a>
 - 📫 Reach me at CGBridgewater@outlook.com
+- 💞️ I’m interested in mountain bikes, cycling in general and golf. 🚵🚵🏌️⛳
 
 ## 💻 Technologies
 
