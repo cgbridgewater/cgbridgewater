@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">Hi, I’m Chris Bridgewater
 
 - See my portfolio page <img height=35px src="https://media4.giphy.com/media/4VmsstYiUagDOSyBVH/giphy.gif?cid=6c09b952a127lu002a9il3qxkrms30wzrbqp9anpxwtc3160&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="click"/> <a href="www.chrisbridgewater.com">Chris Bridgewater's Portfolio</a>  
-- 👨🏻‍💻 I recently graduated from Coding Dojo🥷with proficiency in Python, MERN and Java 
+- 👨🏻‍💻 I recently graduated from Coding Dojo🥷with Black Belt proficiency in Python, MERN and Java 
 - 👀 I’m looking to collaborate on projects and future endeavors
 - 📫 Reach me at CGBridgewater@outlook.com
 - 🔎 Find me on LinkedIn at <a href="https://www.linkedin.com/in/chris-bridgewater/">Chris Bridgewater</a>
