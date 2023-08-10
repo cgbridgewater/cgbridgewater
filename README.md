@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">Hi, I’m Chris Bridgewater
 
-- See my portfolio page <img height=35px src="https://media4.giphy.com/media/4VmsstYiUagDOSyBVH/giphy.gif?cid=6c09b952a127lu002a9il3qxkrms30wzrbqp9anpxwtc3160&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="click"/> <a href="www.chrisbridgewater.com">Chris Bridgewater's Portfolio</a>  
+- See my portfolio page <img height=15px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZqdWNnemVwZWVoazgxbmttNDZ5dGp2ZnpibTNmdTg3cWlsbjB3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vkCZgsnix2JcjL3ZF6/200.gif" alt="click"/> <a href="www.chrisbridgewater.com">Chris Bridgewater's Portfolio</a>  
 - 👨🏻‍💻 I recently graduated from Coding Dojo🥷with Black Belt proficiency in Python, Javascript React (MERN) and Java 
 - 👀 I’m looking to collaborate on projects and future endeavors
 - 📫 Reach me at CGBridgewater@outlook.com
