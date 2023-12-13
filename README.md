@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">Hi, I’m Chris Bridgewater
 
 - See my portfolio page  <img height=15px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZqdWNnemVwZWVoazgxbmttNDZ5dGp2ZnpibTNmdTg3cWlsbjB3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vkCZgsnix2JcjL3ZF6/200.gif" alt="click"/> <a href="www.chrisbridgewater.com">Chris Bridgewater's Portfolio</a>  
-- 👨🏻‍💻 I recently graduated from Coding Dojo🥷with Black Belt proficiency in Python, JavaScript React (MERN) and Java. I Added C# as well and am dabbling in Unity
+- 👨🏻‍💻 I recently graduated from Coding Dojo🥷with Black Belt proficiency in Python, JavaScript React (MERN) and Java. I also added C#/.NET as well as dabbling in Unity Game Design
 - 👀 I’m looking to collaborate on projects and future endeavors
 - 📫 Reach me at CGBridgewater@outlook.com
 - 🔎 Find me on LinkedIn at <a href="https://www.linkedin.com/in/chris-bridgewater/">Chris Bridgewater</a>
