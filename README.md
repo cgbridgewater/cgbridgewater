@@ -1,6 +1,7 @@
+
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">Hi, I’m Chris Bridgewater
 
-- See my portfolio page and live projects here 👉 <a href="https://www.chrisbridgewater.com">Chris Bridgewater's Portfolio</a>  
+<!--- See my portfolio page and live projects here 👉 <a href="https://www.chrisbridgewater.com">Chris Bridgewater's Portfolio</a>  -->
 - 👨🏻‍💻 I recently graduated from Coding Dojo🥷with Black Belt proficiency in Python (Flask & Django), JavaScript React (MERN) and Java. I also added C#/.NET as well as dabbling in Unity Game Design
 - 👀 I’m looking to collaborate on projects and future endeavors
 - 📫 Reach me at CGBridgewater@outlook.com
